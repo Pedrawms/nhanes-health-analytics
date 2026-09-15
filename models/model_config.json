@@ -1,0 +1,20 @@
+{
+    "threshold": 0.29,
+    "model_name": "Logistic Regression",
+    "target": "high_bp",
+    "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "DMDMARTZ",
+        "DMDHHSIZ",
+        "BMXBMI",
+        "BMXWAIST",
+        "BMXWT",
+        "BMXHT",
+        "SMQ020",
+        "LBDHDD",
+        "LBXVIDMS"
+    ]
+}
