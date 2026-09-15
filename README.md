@@ -301,7 +301,7 @@ nhanes-health-analytics/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Pedrawms/nhanes-health-analytics>
 cd nhanes-health-analytics
 ```
 
